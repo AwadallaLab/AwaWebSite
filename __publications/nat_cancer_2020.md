@@ -1,0 +1,67 @@
+---
+title: Publications | Awadalla Lab
+permalink: /publications/
+published: false
+isPublic_b: true
+
+publicationType_txt: journal
+title_txt: "Genomic basis for RNA alterations in cancer."
+pmid_tl: "32025019" 
+publishDate_tdt: "2020-02-05"
+journalTitle_txt: "Nature"
+volume_tl: 
+issue_tl:
+link_txt: "https://www.nature.com/articles/s41586-020-1970-0"
+doi_txt: "110.1038/s41586-020-1970-0"
+authors_list: 
+  - author_txt: "Calabrese C"
+  - author_txt: "Davidson NR"
+  - author_txt: "Demircioğlu D" 
+  - author_txt: "Fonseca Nuno A"
+  - author_txt: "He Y"
+  - author_txt: "Kahles A"
+  - author_txt: "Lehmann K-V"
+  - author_txt: "Liu F"
+  - author_txt: "Soulette CM"
+  - author_txt: "Urban L"
+  - author_txt: "Greger L"
+  - author_txt: "Li S"
+  - author_txt: "Liu D"
+  - author_txt: "Perry MD"  
+  - author_txt: "Xiang Q"  
+  - author_txt: "Zhang F"  
+  - author_txt: "Zhang J"  
+  - author_txt: "Bailey P"  
+  - author_txt: "Erkek S"  
+  - author_txt: "Hoadley KA"  
+  - author_txt: "Hou Y"  
+  - author_txt: "Huska MR"  
+  - author_txt: "Kilpinen H"  
+  - author_txt: "Korbel JO"  
+  - author_txt: "Marin MG"  
+  - author_txt: "Markowski J"  
+  - author_txt: "Nandi T"  
+  - author_txt: "Pan-Hammarström Q"  
+  - author_txt: "Pedamallu CS"  
+  - author_txt: "Siebert R"  
+  - author_txt: "Stark SG"  
+  - author_txt: "Su H"  
+  - author_txt: "Tan P"  
+  - author_txt: "M Waszak S"  
+  - author_txt: "Yung C"  
+  - author_txt: "Zhu S"  
+  - author_txt: "Awadalla P"  
+  - author_txt: "Creighton CJ"  
+  - author_txt: "Meyerson M"  
+  - author_txt: "Ouellette BF"  
+  - author_txt: "Wu K"  
+  - author_txt: "Yang H"  
+  - author_txt: "Brazma A"  
+  - author_txt: "Brooks AN"  
+  - author_txt: "Göke J"  
+  - author_txt: "Rätsch G"  
+  - author_txt: "Schwar RF"  
+  - author_txt: "Stegle O"  
+  - author_txt: "Zhang Z"
+
+---
