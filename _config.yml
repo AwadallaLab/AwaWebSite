@@ -31,7 +31,7 @@ email: webdev@oicr.on.ca
 baseurl: "AwaWebSite"
 
 # Github Repository Information
-git_repo: oicr-webdev/webdev_oicr-labs-pa
+git_repo: AwadallaLab/AwaWebSite
 
 # Default permalink for posts
 permalink: /node/:year-:month-:day-:title.html
