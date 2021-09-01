@@ -31,7 +31,7 @@ email: vbruat@oicr.on.ca
 baseurl: ""
 
 # Github Repository Information
-git_repo: https://github.com/AwadallaLab/AwaWebSite
+git_repo: https://github.com/AwadallaLab/AwadallaLab.github.io
 
 # Default permalink for posts
 permalink: /node/:year-:month-:day-:title.html
