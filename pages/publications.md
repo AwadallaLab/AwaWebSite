@@ -5,11 +5,6 @@ permalink: /publications/
 cssfield: publications.css
 published: true
 isPublic_b: true
-
-doi_txt: "doi:"
-presenter_txt: "Presenters:"
-writtenby_txt: "Written by:"
-
 ---
 
 
