@@ -15,3 +15,5 @@ types_list:
   news_txt: news
   presentation_txt: presentation
 ---
+
+Please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=WUN5BGgAAAAJ&view_op=list_works&sortby=pubdate)
