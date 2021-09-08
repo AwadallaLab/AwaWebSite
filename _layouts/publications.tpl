@@ -14,12 +14,6 @@ layout: pages-all
         </div>
         <!-- Banner -->
 
-        <div class="container">
-            <div class="row">
-                <div id="app-publications"></div>
-            </div>
-        </div>
-
     </div>
 </div>
 
