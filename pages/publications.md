@@ -8,7 +8,7 @@ isPublic_b: true
 
 ---
 
-<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>September 08, 2021&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=thackl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
+<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>September 08, 2021&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=WUN5BGgAAAAJ&hl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
 <h3>2021</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
 <tr><td width="100%">J Tremblay, M Haloui, R Attaoua, R Tahir, C Hishmih, F Harvey et al. (2021) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=5473485908335879987&btnI=1&hl=en">Polygenic risk scores predict diabetes complications and their response to intensive blood pressure and glucose control</a>, Diabetologia, 1-14</td></tr>
