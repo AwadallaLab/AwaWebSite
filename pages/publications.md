@@ -5,4 +5,5 @@ permalink: /publications/
 cssfield: publications.css
 published: true
 isPublic_b: true
+title_txt: "Publications"
 ---
