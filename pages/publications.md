@@ -2,7 +2,7 @@
 title: Publications
 layout: publications
 permalink: /publications/
-cssfield: publications.css
+cssfield: media.css
 published: true
 isPublic_b: true
 title_txt: "Publications"
