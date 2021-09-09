@@ -1,6 +1,6 @@
 Website for PAWADALLA.ORG
 
-# Statis CMS Baseline
+# Static CMS Baseline
 This framework provides a Jekyll project that is organized and optimized for Webdev team.
 This includes:
 - An organized architecture.
