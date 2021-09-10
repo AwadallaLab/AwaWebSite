@@ -68,7 +68,7 @@ collections:
   _news:
     output: false
   _publications:
-    output: false
+    output: true
 
 defaults:
   # Default
