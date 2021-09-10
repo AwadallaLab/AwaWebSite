@@ -30,6 +30,8 @@ email: vbruat@oicr.on.ca
 # the subpath of your site, e.g. /blog
 baseurl: ""
 
+url: "pawadallalab.org"
+
 # Github Repository Information
 git_repo: https://github.com/AwadallaLab/AwadallaLab.github.io
 
