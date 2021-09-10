@@ -69,7 +69,6 @@ collections:
     output: false
   _publications:
     output: true
-    permalink: '/:collection/'
 
 defaults:
   # Default
