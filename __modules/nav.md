@@ -9,7 +9,7 @@ nav_list:
   - title_txt: "our research"
     link_txt: "/research/"
   - title_txt: "publications"
-    link_txt: "/publications/"
+    link_txt: "/test/"
   - title_txt: "about us"
     link_txt: "/about/"
     dropdown_list:
