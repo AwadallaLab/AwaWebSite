@@ -2,7 +2,7 @@
 title: Test
 layout: test
 permalink: /test/
-cssfield: publications.css
+cssfield: test.css
 published: true
 isPublic_b: true
 title_txt: "Test"
