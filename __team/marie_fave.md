@@ -6,7 +6,7 @@ isPublic_b: true
 
 firstName_txt: Marie-Julie
 lastName_txt: Favé
-profilePic_txt: /assets/site/images/personnel/marie_fave.png
+profilePic_txt: /assets/site/images/personnel/MJ_headshot.png
 position_txt: Research Associate
 ---
 
