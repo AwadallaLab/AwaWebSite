@@ -6,7 +6,7 @@ isPublic_b: true
 
 firstName_txt: Vanessa
 lastName_txt: Bruat
-profilePic_txt: /assets/site/images/personnel/vanessa.png
+profilePic_txt: /assets/site/images/personnel/Vanessa.png
 position_txt: Bioinformatics and Laboratory Manager
 ---
 
