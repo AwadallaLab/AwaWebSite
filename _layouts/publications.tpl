@@ -17,9 +17,10 @@ layout: pages-all
     </div>
 </div>
 
-<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>April 06, 2022&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=thackl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
+<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>May 05, 2022&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=thackl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
 <h3>2022</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
+<tr><td width="100%">T Ouellette, P Awadalla (2022) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Inferring ongoing cancer evolution from single tumour biopsies using synthetic supervised learning</a>, Public Library of Science Computational Biology, 18 (4), e1010007</td></tr>
 <tr><td width="100%">JM Luu, C Gebhard, C Ramasundarahettige, D Desai, K Schulze et al. (2022) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=13589042205732362077&btnI=1&hl=en">Normal sex and age-specific parameters in a multi-ethnic population: a cardiovascular magnetic resonance study of the Canadian Alliance for Healthy Hearts and Minds cohort</a>, Journal of Cardiovascular Magnetic Resonance, 24 (1), 1-13</td></tr>
 <tr><td width="100%">CB Joseph, M Mariniello, A Yoshifuji, G Schiano, J Lake, J Marten et al. (2022) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=16946895701573533790&btnI=1&hl=en">Meta-GWAS reveals novel genetic variants associated with urinary excretion of uromodulin</a>, Journal of the American Society of Nephrology, 33 (3), 511-529</td></tr>
 <tr><td width="100%">RA Murphy, M Darvishian, J Qi, Y Chen, Q Chu, J Vena, TJB Dummer et al. (2022) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=12349496049447654489&btnI=1&hl=en">Lifestyle factors and lung cancer risk among never smokers in the Canadian Partnership for Tomorrow’s Health (CanPath)</a>, Cancer Causes & Control, 1-6</td></tr>
