@@ -17,7 +17,7 @@ layout: pages-all
     </div>
 </div>
 
-<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>May 05, 2022&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=thackl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
+<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>May 05, 2022&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=WUN5BGgAAAAJ&hl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
 <h3>2022</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
 <tr><td width="100%">T Ouellette, P Awadalla (2022) <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010007">Inferring ongoing cancer evolution from single tumour biopsies using synthetic supervised learning</a>, PLOS Computational Biology</td></tr>
