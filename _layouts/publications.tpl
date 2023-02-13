@@ -21,7 +21,7 @@ layout: pages-all
 <h3>2023</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
 <tr><td width="100%">Y Wang, S Namba, E Lopera, S Kerminen, K Tsuo, K L&auml;ll, M Kanai et al. (2023) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=9374417867569487935&btnI=1&hl=en">Global Biobank analyses provide lessons for developing polygenic risk scores across diverse cohorts</a>, Cell Genomics, 100241</td></tr>
-<tr><td width="100%">N Cheng, K Skead, A Singhawansa, T Ouellette, M Elliott, DW Cescon et al. (2023) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Pre-diagnosis plasma cell-free DNA methylome profiling up to seven years prior to clinical detection reveals early signatures of breast cancer</a>, medRxiv, 2023.01. 30.23285027</td></tr>
+<tr><td width="100%">N Cheng, K Skead, A Singhawansa, T Ouellette, M Elliott, DW Cescon et al. (2023) <a href="https://www.medrxiv.org/content/10.1101/2023.01.30.23285027v1">Pre-diagnosis plasma cell-free DNA methylome profiling up to seven years prior to clinical detection reveals early signatures of breast cancer</a>, medRxiv, 2023.01. 30.23285027</td></tr>
 </tbody></table>
 <h3>2022</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
