@@ -25,7 +25,6 @@ layout: pages-all
 </tbody></table>
 <h3>2022</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
-<tr><td width="100%">E Bader, MJ Fave, M Agbessi, J Uzunovic, N Cheng, E Gbeha, V Bruat et al. (2022) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Immunogenetics of Healthy Aging at the Single Cell Level</a>, GENETIC EPIDEMIOLOGY, 46 (7), 493-493</td></tr>
 <tr><td width="100%">G Wong, K Skead, A Mitchell, J McLeod, P Awadalla, E Lechman, J Dick (2022) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">3229–MODELING CLONAL HEMATOPOIESIS AND THE PRE-LEUKEMIC STATE WITH CHR13Q DELETION IN HUMAN HEMATOPOIETIC STEM CELLS</a>, Experimental Hematology, 111, S159</td></tr>
 <tr><td width="100%">W Zhou, M Kanai, KHH Wu, H Rasheed, K Tsuo, JB Hirbo, Y Wang et al. (2022) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=4108825927871003618,13526992530883621795&btnI=1&hl=en">Global Biobank Meta-analysis Initiative: Powering genetic discovery across human disease</a>, Cell Genomics, 2 (10), 100192</td></tr>
 <tr><td width="100%">M Kanai, R Elzur, W Zhou, KHH Wu, H Rasheed, K Tsuo, JB Hirbo et al. (2022) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=13777671526831018637&btnI=1&hl=en">Meta-analysis fine-mapping is often miscalibrated at single-variant resolution</a>, Cell genomics, 2 (12), 100210</td></tr>
