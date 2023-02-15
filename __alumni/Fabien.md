@@ -9,5 +9,5 @@ lastName_txt: Lamaze
 position_txt: Senior Associate Researcher – Project Lead
 affiliation_txt: Institut universitaire de cardiologie et de Pneumologie de Québec.
 location_txt: CANADA, QC
-alumniType_txt: PhD. Students
+alumniType_txt: Postdocs
 ---
