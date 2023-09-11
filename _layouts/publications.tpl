@@ -17,7 +17,7 @@ layout: pages-all
     </div>
 </div>
 
-<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>September 11, 2023&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=thackl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
+<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>September 11, 2023&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=WUN5BGgAAAAJ">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
 <h3>2023</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
 <tr><td width="100%">TJ Murphy, H Swail, J Jain, M Anderson, P Awadalla, L Behl, PE Brown et al. (2023) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">The evolution of SARS-CoV-2 seroprevalence in Canada: a time-series study, 2020–2023</a>, CMAJ, 195 (31), E1030-E1037</td></tr>
