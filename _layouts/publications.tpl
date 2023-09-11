@@ -17,9 +17,11 @@ layout: pages-all
     </div>
 </div>
 
-<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>June 22, 2023&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=thackl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
+<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>September 11, 2023&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=thackl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
 <h3>2023</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
+<tr><td width="100%">TJ Murphy, H Swail, J Jain, M Anderson, P Awadalla, L Behl, PE Brown et al. (2023) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">The evolution of SARS-CoV-2 seroprevalence in Canada: a time-series study, 2020–2023</a>, CMAJ, 195 (31), E1030-E1037</td></tr>
+<tr><td width="100%">LA van Tuijl, M Basten, KY Pan, R Vermeulen, L Portengen, A de Graeff et al. (2023) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Depression, anxiety, and the risk of cancer: An individual participant data meta‐analysis</a>, Cancer, </td></tr>
 <tr><td width="100%">Y Wang, S Namba, E Lopera, S Kerminen, K Tsuo, K L&auml;ll, M Kanai et al. (2023) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=9374417867569487935&btnI=1&hl=en">Global Biobank analyses provide lessons for developing polygenic risk scores across diverse cohorts</a>, Cell Genomics, 100241</td></tr>
 <tr><td width="100%">W Hill, EL Lim, CE Weeden, C Lee, M Augustine, K Chen, FC Kuan et al. (2023) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=7831641566296973806&btnI=1&hl=en">Lung adenocarcinoma promotion by air pollutants</a>, Nature, 616 (7955), 159-167</td></tr>
 <tr><td width="100%">VA Kirsh, K Skead, K McDonald, N Kreiger, J Little, K Menard et al. (2023) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=12746246072538667343&btnI=1&hl=en">Cohort Profile: The Ontario Health Study (OHS)</a>, International Journal of Epidemiology, 52 (2), e137-e151</td></tr>
