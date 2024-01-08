@@ -2,7 +2,7 @@
 title: Team | Awadalla Lab
 permalink: /team/
 published: false
-isPublic_b: true
+isPublic_b: false
 
 firstName_txt: Heather
 lastName_txt: Gibling
