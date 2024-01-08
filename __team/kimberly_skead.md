@@ -1,8 +1,8 @@
 ---
 title: Team | Awadalla Lab
 permalink: /team/
-published: true
-isPublic_b: true
+published: false
+isPublic_b: false
 
 firstName_txt: Kimberly
 lastName_txt: Skead
