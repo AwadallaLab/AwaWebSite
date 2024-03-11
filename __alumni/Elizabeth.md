@@ -9,5 +9,5 @@ lastName_txt: Hall
 position_txt: Medical Student
 affiliation_txt: University of Toronto
 location_txt: 
-alumniType_txt: PhD. Students
+alumniType_txt: MSc. / DESS Students
 ---
