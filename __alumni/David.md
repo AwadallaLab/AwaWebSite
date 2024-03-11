@@ -6,8 +6,8 @@ isPublic_b: true
 
 firstName_txt: David
 lastName_txt: Soave
-position_txt: Associate
-affiliation_txt: OICR
-location_txt: Canada, ON
+position_txt: Associate at OICR
+affiliation_txt: Assistant Professor at Wilfred Laurier
+location_txt: Toronto, ON
 alumniType_txt: Postdocs
 ---
