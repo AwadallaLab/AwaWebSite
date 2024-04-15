@@ -17,7 +17,15 @@ layout: pages-all
     </div>
 </div>
 
-<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>September 11, 2023&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=WUN5BGgAAAAJ">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
+<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>April 15, 2024&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=thackl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
+<h3>2024</h3>
+<table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
+<tr><td width="100%">M Basten, KY Pan, LA van Tuijl, A de Graeff, J Dekker, AW Hoogendoorn et al. (2024) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=11862262507364294196&btnI=1&hl=en">Psychosocial factors, health behaviors and risk of cancer incidence: Testing interaction and effect modification in an individual participant data meta‐analysis</a>, International journal of cancer, </td></tr>
+<tr><td width="100%">I Nofech-Mozes, V Wang, P Awadalla, S Abelson (2024) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Uncovering clinically significant tumor microenvironment interaction programs across diverse cancers</a>, Cancer Research, 84 (6_Supplement), 5552-5552</td></tr>
+<tr><td width="100%">N Cheng, K Skead, T Oullette, S Bratman, D De Carvalho, D Soave et al. (2024) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Cell-free DNA methylation and fragmentomic signatures identify tissue damage and predict cancer risk</a>, Cancer Research, 84 (6_Supplement), 3454-3454</td></tr>
+<tr><td width="100%">EY Stutheit-Zhao, E Sanz-Garcia, Z Liu, D Wong, K Marsh et al. (2024) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Early changes in tumor-naive cell-free methylomes and fragmentomes predict outcomes in pembrolizumab-treated solid tumors</a>, Cancer Discovery, </td></tr>
+<tr><td width="100%">E Hall, P Awadalla (2024) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Age-specific transcriptional risk scores improve patient stratification and outcome predictions for early-onset acute myeloid leukemia</a>, EUROPEAN JOURNAL OF HUMAN GENETICS, 32, 767-767</td></tr>
+</tbody></table>
 <h3>2023</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
 <tr><td width="100%">TJ Murphy, H Swail, J Jain, M Anderson, P Awadalla, L Behl, PE Brown et al. (2023) <a href="https://www.cmaj.ca/content/195/31/E1030">The evolution of SARS-CoV-2 seroprevalence in Canada: a time-series study, 2020–2023</a>, CMAJ, 195 (31), E1030-E1037</td></tr>
