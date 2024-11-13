@@ -1,4 +1,4 @@
----
+prin---
 layout: pages-all
 ---
 <div id="page-wrapper" class="page-wrapper">
@@ -26,7 +26,7 @@ layout: pages-all
 <tr><td width="100%">J Brooks, A Hayes, R Alvi, M Azimaee, P Bhatti, S Cheema, T Choi et al. (2024) <a href="https://www.researchgate.net/publication/383937833_The_CanPath-HDRN_Canada_Collaboration_Enabling_Multi-jurisdictional_Research_in_Canada">The CanPath-HDRN Canada Collaboration: Enabling Multi-jurisdictional Research in Canada</a>, International Journal of Population Data Science, 9 (5)</td></tr>
 <tr><td width="100%">V Ho, I Csizmadi, BA Boucher, M McInerney, C Boileau, N Noisel et al. (2024) <a href="https://bmjopen.bmj.com/content/14/8/e083425">Cohort profile: the CARTaGENE Cohort Nutrition Study (Quebec, Canada)</a>, BMJ open, 14 (8), e083425</td></tr>
 <tr><td width="100%">SF O’Brien, M Asamoah-Boaheng, B Grunau, M Krajden, DL Buckeridge et al. (2024) <a href="https://link.springer.com/article/10.17269/s41997-024-00901-w">Canada’s approach to SARS-CoV-2 sero-surveillance: Lessons learned for routine surveillance and future pandemics</a>, Canadian Journal of Public Health, 115 (4), 558-566</td></tr>
-<tr><td width="100%">Z Lombard, E Wiener, L Cottino, G Botha, O Nyangiri, H Noyes et al. (2024) <a href="https://pubmed.ncbi.nlm.nih.gov/39041024/">An assessment of the genomic structural variation landscape in Sub-Saharan African populations</a>, , </td></tr>
+<tr><td width="100%">Z Lombard, E Wiener, L Cottino, G Botha, O Nyangiri, H Noyes et al. (2024) <a href="https://pubmed.ncbi.nlm.nih.gov/39041024/">An assessment of the genomic structural variation landscape in Sub-Saharan African populations</a>, Preprint, </td></tr>
 <tr><td width="100%">M Basten, KY Pan, LA van Tuijl, A de Graeff, J Dekker, AW Hoogendoorn et al. (2024) <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ijc.34852">Psychosocial factors, health behaviors and risk of cancer incidence: Testing interaction and effect modification in an individual participant data meta‐analysis</a>, International journal of cancer, </td></tr>
 <tr><td width="100%">I Nofech-Mozes, V Wang, P Awadalla, S Abelson (2024) <a href="https://aacrjournals.org/cancerres/article/84/6_Supplement/5552/740967">Uncovering clinically significant tumor microenvironment interaction programs across diverse cancers</a>, Cancer Research, 84 (6_Supplement), 5552-5552</td></tr>
 <tr><td width="100%">N Cheng, K Skead, T Oullette, S Bratman, D De Carvalho, D Soave et al. (2024) <a href="https://aacrjournals.org/cancerres/article/84/6_Supplement/3454/738235">Cell-free DNA methylation and fragmentomic signatures identify tissue damage and predict cancer risk</a>, Cancer Research, 84 (6_Supplement), 3454-3454</td></tr>
