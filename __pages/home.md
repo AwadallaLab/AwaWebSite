@@ -20,7 +20,7 @@ banner:
 
 aboutUs:
   title_txt: About Us
-  content_txt: The Awadalla Lab, headed by Philip Awadalla, is jointly housed at the [Ontario Institute for Cancer Research](http://oicr.on.ca/) and the [University of Toronto](https://www.utoronto.ca/). Working with genomic data, and through the development of computational tools, the laboratory interrogates genomic and environmental contributions associated with the frequency and severity of diseases in human populations.
+  content_txt: The Awadalla Lab, headed by Philip Awadalla, is jointly housed at the [University of Oxford](https://www.ox.ac.uk/), the [University of Toronto](https://www.utoronto.ca/) and the [Ontario Institute for Cancer Research](http://oicr.on.ca/). Working with genomic data, and through the development of computational tools, the laboratory interrogates genomic and environmental contributions associated with the frequency and severity of diseases in human populations.
   button_txt: More About Us
   link_txt: "/about/"
 
