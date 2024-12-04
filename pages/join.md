@@ -27,7 +27,7 @@ sections_list:
         - "Next-generation approaches (whole genome, RNA-seq, epigenomic, long-read and single-cell) integrating population genetic approaches for genomic studies of large population cohorts. Our lab is directing the longitudinal collection of genomic material in Canada's national populations cohort, the Canadian Partnership for Tomorrow Project, which has enlisted 315,000 participants across Canada with administrative health data (EHRs) and physical measures."
         - "Capturing de novo tissue and cell-specific mutation and recombination events from normal or malignant tissue including single cell applications. Fitness consequences of mutations from genome-wide collections of empirical population and comparative data."
         - "Identify genetic and molecular control points associated with simple and complex disorders oncological/hematological phenotypes or diseases including immunodeficiencies, child-hood cancer, and age-related clonal hematopoiesis (ARCH). "
-    buttonBox_txt: "Interested individuals should please write to Philip Awadalla (philip.awadalla@oicr.on.ca). "
+    buttonBox_txt: "Interested individuals should please write to Philip Awadalla (philip.awadalla@ndph.ox.ac.uk). "
     button_txt: Email Us
     link_txt: "mailto:philip.awadalla@ndph.ox.ac.uk"
 
