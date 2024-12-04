@@ -48,7 +48,7 @@ layout: pages-all
                             <img src="/assets/site/images/awadalla-lab-team-photo-contactus.png" class="contact-img" alt="">
                         </div>
                         <div class="image-frame">
-                            <img src="/assets/site/images/mars-discovery-district-contactus.png" class="contact-img" alt="">
+                            <img src="/assets/site/images/BDI-Oxford.png" class="contact-img" alt="">
                         </div>
                     </div>
                 </div>
