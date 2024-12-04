@@ -29,7 +29,7 @@ sections_list:
         - "Identify genetic and molecular control points associated with simple and complex disorders oncological/hematological phenotypes or diseases including immunodeficiencies, child-hood cancer, and age-related clonal hematopoiesis (ARCH). "
     buttonBox_txt: "Interested individuals should please write to Philip Awadalla (philip.awadalla@oicr.on.ca). "
     button_txt: Email Us
-    link_txt: "mailto:philip.awadalla@oicr.on.ca"
+    link_txt: "mailto:philip.awadalla@ndph.ox.ac.uk"
 
   - title_txt: "Bioinformatics, Undergraduate and Volunteer Opportunities"
     leftContent_list: 
@@ -39,7 +39,7 @@ sections_list:
     rightImage_txt: "/assets/site/images/awadalla-lab-team-photo-jointheteam2.jpg"
     buttonBox_txt: "If you are interested in applying, **please send a CV and a statement of why you would like to do research in our lab.**"
     button_txt: "Email Us"
-    link_txt: "mailto:philip.awadallalab@gmail.com"
+    link_txt: "mailto:philip.awadalla@ndph.ox.ac.uk"
 
   - title_txt: Graduate and Postdoctoral Training
     leftContent_txt: "Students with a background in **genomics, statistical genetics and evolutionary biology** having an interest in **medical genomics, population genetics, and genomics of infectious disease** are especially welcome. Students with strengths in other areas such as computational and statistical biology will also be considered."
@@ -54,7 +54,7 @@ sections_list:
         - "Research scientists in the laboratory normally are expected to publish 4-6 journal articles from their time in the lab. This enables them to be in a better position to obtain post-doctoral or academic positions."
     buttonBox_txt: "If you are interested in applying, **please send a CV and a statement of why you would like to do research in our lab.**"
     button_txt: Email Us
-    link_txt: "mailto:philip.awadallalab@gmail.com"
+    link_txt: "mailto:philip.awadalla@ndph.ox.ac.uk"
 
 bigdataBox:
   image_txt: "/assets/site/images/awadalla-wetlab-genetics-research.jpg"
