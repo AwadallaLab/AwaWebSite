@@ -1,4 +1,4 @@
-prin---
+---
 layout: pages-all
 ---
 <div id="page-wrapper" class="page-wrapper">
